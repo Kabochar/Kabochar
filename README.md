@@ -1,6 +1,6 @@
 Hi there 👋, my name is Kabocha. Welcome to my github profile😎.
 
-Prefer to unbounded language to solve tech problems. 
+Prefer unbounded language to solve tech problems. 
 
 - 🔭 I’m currently working on learning more about tech solutions. 
 - 📫 How to reach me: anemailbox@163.com 
