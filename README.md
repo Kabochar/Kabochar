@@ -1,4 +1,4 @@
-Hello, this is Kabucha
+Hello, this is Kabochar
 
 Here are some of my personal and favourite repo's, hopefully one of them will give help to you
 
